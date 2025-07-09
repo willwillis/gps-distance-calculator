@@ -13,7 +13,8 @@ A Flutter app that uses GPS to record start and end points, calculate distances,
 
 ## Screenshots
 
-*Add screenshots here when available*
+![GPS Distance Calculator App](app.png)
+
 
 ## Installation
 
